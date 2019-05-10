@@ -1,0 +1,20 @@
+INDEX VERSION 1.127+D:\develop\github\agilewebhomework\work02\.metadata\.plugins\org.eclipse.jdt.core
+1033631691.index
+4006464320.index
+3737120053.index
+810749068.index
+852955480.index
+194204618.index
+451245405.index
+1713635139.index
+1438698018.index
+1571930954.index
+2488258941.index
+2357357349.index
+836321645.index
+3824105567.index
+2185737523.index
+3725396949.index
+2486864721.index
+372724080.index
+1978421552.index
